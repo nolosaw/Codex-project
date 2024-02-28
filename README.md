@@ -6,7 +6,7 @@
 
 
 # Abstract
-XXX is a board game that allow the player(s) to solve multiple puzzle games by responding to an AI only with their hands and without any screen. The possibilities of puzzle are infinite and the player can create new ones at home only with a printer. 
+Codex is a board game that allow the player(s) to solve multiple puzzle games by responding to an AI only with their hands and without any screen. The possibilities of puzzle are infinite and the player can create new ones at home only with a printer. 
 
 # Details
 
